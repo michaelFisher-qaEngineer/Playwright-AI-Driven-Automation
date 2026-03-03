@@ -122,7 +122,7 @@ npx playwright test --ui
 ```
 ---
 
-## Running the Tests
+## Why This Project Exists
 
 This repository demonstrates how AI-assisted tooling is changing test automation workflows.
 
