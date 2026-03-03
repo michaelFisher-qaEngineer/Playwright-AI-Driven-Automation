@@ -119,7 +119,7 @@ npx playwright test
 Run tests in UI mode:
 
 npx playwright test --ui
-
+```
 ---
 
 ## Running the Tests
