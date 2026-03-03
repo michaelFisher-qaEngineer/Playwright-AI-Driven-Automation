@@ -119,7 +119,10 @@ npx playwright test
 Run tests in UI mode:
 
 npx playwright test --ui
-Why This Project Exists
+
+---
+
+## Running the Tests
 
 This repository demonstrates how AI-assisted tooling is changing test automation workflows.
 
