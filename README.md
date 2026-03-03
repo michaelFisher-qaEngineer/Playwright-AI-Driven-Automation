@@ -125,6 +125,7 @@ npx playwright test --ui
 
 ## Why This Project Exists
 
+
 This repository demonstrates how AI-assisted tooling is changing test automation workflows.
 
 Instead of writing large volumes of automation code manually, engineers can now:
