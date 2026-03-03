@@ -120,6 +120,7 @@ Run tests in UI mode:
 
 npx playwright test --ui
 ```
+
 ---
 
 ## Why This Project Exists
@@ -137,3 +138,5 @@ Generate executable tests
 Automatically maintain them as the application evolves
 
 The goal of this project is to experiment with and showcase the practical capabilities of AI-driven test automation using Playwright.
+
+---
